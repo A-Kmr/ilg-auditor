@@ -4,9 +4,7 @@
 
 This system replaces manual gate logs with an automated pipeline that tracks vehicles, extracts license plate text, runs data quality checks in a distributed lakehouse, and surfaces operational alerts on an interactive dashboard.
 
-**Live Dashboard →** [Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/ilg-auditor)  
-**Demo Video →** [Watch the edge layer running locally](YOUR_VIDEO_LINK)
-
+**Live Dashboard →** [Hugging Face Spaces](https://huggingface.co/spaces/Akmr008/intelligent-logistics-gateway-auditor)  
 ---
 
 ## System Architecture
