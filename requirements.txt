@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+ultralytics
+paddleocr
+paddlepaddle==2.6.2
+cap_from_youtube
+opencv-python-headless
