@@ -137,6 +137,4 @@ ilg-auditor/
 
 ## Data Sources
 
-- **UA-DETRAC** — public vehicle tracking dataset used for edge layer development and testing
-- **CCPD** — public Chinese license plate dataset used for PaddleOCR fine-tuning and validation
-- **Synthetic shipping manifest** — generated programmatically to simulate a corporate dispatch schedule for Gold layer reconciliation testing
+- **Kaggle** — License Plate Recognition for Red-Light Violation
